@@ -15,4 +15,4 @@ If the generator & the inheritance models share the same base class, then either
 
 Also should look into better app layouts in the intermediate docs: https://flask-restful.readthedocs.io/en/latest/intermediate-usage.html
 
-
+also to look at: https://marshmallow.readthedocs.io/en/3.0/
