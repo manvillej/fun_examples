@@ -6,4 +6,4 @@ its meant to be a fun reference guide to building larger more complex projects w
 
 ## list of projects: 
 * flask_restful_simple - complete
-* lots_of_decorators - 
+* lots_of_decorators - complete

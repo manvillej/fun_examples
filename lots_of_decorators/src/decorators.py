@@ -57,8 +57,8 @@ class class_decorator_without_args(object):
 		self.func = func
 
 	def __call__(self, *args):
-		print("Hello World")
-		self.func(*args)
+		print("Hello World 3")
+		return self.func(*args)
 
 def func_decorator_without_args(func):
 	"""
@@ -72,6 +72,6 @@ def func_decorator_without_args(func):
 	{'val':'test'}
 	"""
 	def new_func(*args):
-		print("Hello World")
+		print("Hello World 4")
 		return func(*args)
 	return new_func
