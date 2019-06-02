@@ -13,3 +13,6 @@ The metaclass model allows for more quickly standing up a resource-model as I ju
 If the generator & the inheritance models share the same base class, then either method would have the same functionalities.
 
 
+Also should look into better app layouts in the intermediate docs: https://flask-restful.readthedocs.io/en/latest/intermediate-usage.html
+
+
