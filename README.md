@@ -12,7 +12,7 @@ its meant to be a fun reference guide to building larger more complex projects w
 
 ## list of prospective projects:
 * google_fire -
-* python-logging - 
+* python_logging - 
 * flask_blueprints -
 * pytest - 
 * ngrok_and_python - 
@@ -21,6 +21,7 @@ its meant to be a fun reference guide to building larger more complex projects w
 * flask_sqlalchemy -
 * aws_python_lambda - 
 * flask_pymongo -
+* flask_restful_marshalling - 
 * jupyter_notebook -
 * basic_pandas -
 * asyncio - 
@@ -52,6 +53,8 @@ its meant to be a fun reference guide to building larger more complex projects w
 * SimPy_basics -
 * pysolr_basics -
 * marshmallow - 
+* sphinx_autodoc - 
+* sphinx_ext - 
 
 
 
