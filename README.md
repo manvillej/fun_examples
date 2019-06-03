@@ -31,10 +31,17 @@ its meant to be a fun reference guide to building larger more complex projects w
 * scipy_basics - 
 * black - 
 * flake8 -
+* newspaper - 
 * cookiecutter - 
+* twython - 
+* gspread - 
 * matplotlib_basics - 
 * seaborn_basics - 
+* CircleCI - 
+* Travis CI - 
 * psycopg2_basics - 
+* toapi - 
+* textract - 
 * ansible_basics -
 * py2exe_basics -
 * geojson - 
