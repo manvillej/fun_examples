@@ -7,10 +7,10 @@ its meant to be a fun reference guide to building larger more complex projects w
 ## list of completed example projects: 
 * flask_restful_simple - complete
 * lots_of_decorators - complete
+* sphinx_basics - complete
 
 
 ## list of prospective projects:
-* sphinx_basics - 
 * google_fire -
 * python-logging - 
 * flask_blueprints -
