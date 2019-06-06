@@ -8,10 +8,10 @@ its meant to be a fun reference guide to building larger more complex projects w
 * flask_restful_simple - complete
 * lots_of_decorators - complete
 * sphinx_basics - complete
+* google_fire - complete
 
 
 ## list of prospective projects:
-* google_fire -
 * python_logging - 
 * flask_blueprints -
 * pytest - 
