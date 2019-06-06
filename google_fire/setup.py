@@ -6,6 +6,7 @@ setup(
         'console_scripts': [
             'hello = google_fire:simple_func',
             'calc = google_fire:simple_class',
+            'counter = google_fire:complex_class',
         ],
     }
 )
