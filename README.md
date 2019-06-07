@@ -55,6 +55,22 @@ its meant to be a fun reference guide to building larger more complex projects w
 * marshmallow - 
 * sphinx_autodoc - 
 * sphinx_ext - 
+* entry_points - 
+* NetworkX - 
+* ExRex  - 
+* Numba - 
+* zappa - 
+* python_lambda -
+* python_qrcode - 
+* mongodb/motor - 
+* doitlive - 
+* oauthlib - 
+* nltk - 
+* textblob - 
+* dash - 
+* pyflux - 
+* pillow - 
+* PyTorch - 
 
 
 
