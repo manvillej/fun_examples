@@ -9,6 +9,7 @@ its meant to be a fun reference guide to building larger more complex projects w
 * lots_of_decorators - complete
 * sphinx_basics - complete
 * google_fire - complete
+* cookiecutter - complete
 
 
 ## list of prospective projects:
@@ -33,7 +34,6 @@ its meant to be a fun reference guide to building larger more complex projects w
 * black - 
 * flake8 -
 * newspaper - 
-* cookiecutter - 
 * twython - 
 * gspread - 
 * matplotlib_basics - 
