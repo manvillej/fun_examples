@@ -10,11 +10,11 @@ its meant to be a fun reference guide to building larger more complex projects w
 * sphinx_basics - complete
 * google_fire - complete
 * cookiecutter - complete
+* flask_blueprints - complete
 
 
 ## list of prospective projects:
 * python_logging - 
-* flask_blueprints -
 * pytest - 
 * ngrok_and_python - 
 * aws_and_python - 
