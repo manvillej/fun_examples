@@ -20,6 +20,3 @@ The class model is very useful, you can handle your initial/environment variable
 ### counter:
 * counter countup
 * counter countdown
-
-
-
