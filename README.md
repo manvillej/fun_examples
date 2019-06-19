@@ -28,6 +28,7 @@ its meant to be a fun reference guide to building larger more complex projects w
 * asyncio - 
 * PDFMiner - 
 * Qtpy -
+* cookiecutter_hooks - 
 * tox_basics - 
 * numpy_basics - 
 * scipy_basics - 
