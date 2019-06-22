@@ -68,11 +68,19 @@ its meant to be a fun reference guide to building larger more complex projects w
 * oauthlib - 
 * nltk - 
 * textblob - 
-* dash - 
+* dash -
+* dask -  
 * pyflux - 
 * pillow - 
 * PyTorch - 
 
-
-
 https://github.com/vinta/awesome-python
+
+
+## Non-pythonish stuff
+ * react
+ * react-vis
+ * webpack
+ * docker
+
+
