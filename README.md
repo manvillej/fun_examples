@@ -73,6 +73,8 @@ its meant to be a fun reference guide to building larger more complex projects w
 * pyflux - 
 * pillow - 
 * PyTorch - 
+* pendulum - 
+* flashtext - 
 
 https://github.com/vinta/awesome-python
 
@@ -82,5 +84,6 @@ https://github.com/vinta/awesome-python
  * react-vis
  * webpack
  * docker
+ * redux
 
 
